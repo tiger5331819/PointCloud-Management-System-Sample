@@ -1,0 +1,12 @@
+HA301
+qingdao
+jinan
+18:00-20;00
+HA302
+guangzhou
+beijing
+12:00-14:00
+HA303
+shenzhen
+qingdao
+18:00-20:00
